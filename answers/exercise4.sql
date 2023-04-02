@@ -1,1 +1,1 @@
-drop table this_table;
+drop table Users;

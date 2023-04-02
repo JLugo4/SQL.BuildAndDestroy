@@ -1,1 +1,1 @@
-drop database thisdatabase;
+drop database myNewDB;

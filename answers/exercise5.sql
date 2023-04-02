@@ -1,1 +1,1 @@
-truncate table this_table;
+truncate table Users;

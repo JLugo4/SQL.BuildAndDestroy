@@ -1,2 +1,2 @@
-alter table this_table
-add column1 int;
+alter table Users
+add Date Birthday;

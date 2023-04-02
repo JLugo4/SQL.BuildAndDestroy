@@ -1,5 +1,6 @@
-create table this_table(
-    column1 int
-    column2 String
-    column3 char
+create table Users(
+    LastName varchar(255)
+    FirstName varchar(255)
+    Address varchar(255)
+    City varchar(255)
         );

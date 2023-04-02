@@ -1,2 +1,2 @@
-alter table this_table
-drop column column1;
+alter table Users
+drop column Birthday;
